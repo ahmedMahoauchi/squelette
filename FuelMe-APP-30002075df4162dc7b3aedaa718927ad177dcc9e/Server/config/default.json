@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb+srv://Yosri:qrnb77oYkKsNfpi1@cluster0.lamrtkh.mongodb.net/test",
+  "secretOrkey": "my secret"
+}

@@ -1,0 +1,7 @@
+{
+  "mongoUri": "mongodb+srv://Yosri:qrnb77oYkKsNfpi1@cluster0.lamrtkh.mongodb.net/test",
+  "secretOrkey": "my secret",
+  "Client_URL": "http://localhost:9092",
+  "RESET_PWD_KEY": "accountactivatekey123456789",
+  "MAILGUN_APIKEY": "b9009a70da7f97485cd827ba0894b69b-2de3d545-f4659c65"
+}
